@@ -1,0 +1,15 @@
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.csprojAssemblyReference.cache
+D:\C#_projects\песочница\Events 4\obj\Debug\MainWindow.g.cs
+D:\C#_projects\песочница\Events 4\obj\Debug\App.g.cs
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4_MarkupCompile.cache
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4_MarkupCompile.lref
+D:\C#_projects\песочница\Events 4\bin\Debug\Events 4.exe.config
+D:\C#_projects\песочница\Events 4\bin\Debug\Events 4.exe
+D:\C#_projects\песочница\Events 4\bin\Debug\Events 4.pdb
+D:\C#_projects\песочница\Events 4\obj\Debug\MainWindow.baml
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.g.resources
+D:\C#_projects\песочница\Events 4\obj\Debug\Events_4.Properties.Resources.resources
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.csproj.GenerateResource.cache
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.csproj.CoreCompileInputs.cache
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.exe
+D:\C#_projects\песочница\Events 4\obj\Debug\Events 4.pdb
